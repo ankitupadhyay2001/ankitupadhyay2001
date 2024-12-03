@@ -1,12 +1,12 @@
-- 👋 Hi, I’m Ankit Upadhyay
-- 👀 I’m interested in Java programming , Software testing , AWS , MYSQl , Data Anaytics , Cloud Computing.
-- 🌱 I’m currently learning AI , Blockchain , Machine Learning ,Quantum computing.
-- 💞️ I’m looking to collaborate on Blockchain And Artificial intelligence.
-- 📫 How to reach me ankitupadhyay1503@gmail.com
-- 😄 Pronouns: Jordan20au
-- ⚡ Fun fact: Working on Myself
-
-<!---
-ankitupadhyay2001/ankitupadhyay2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a multipotentialite. I have different passions that mix together to create something risky, to create something awesome. As far as my passion is concerned. definetely not swayed away by buzzwords like NFT and Metaverse. But here to bring about a change in delivering education and era through technology. For I am a Tech savvy, a recon specialist to find the problems, for I am a mage to use spells and potions to buff up strength and mana and I am a developer, to make all of this happen!
+🔭 I’m currently working on AI/LLM projet
+🌱 Trying to learn Artificial Inteligence(Gen-AI) and how to make sense out of it!
+👯 Call me to work on anything that create innovative things go weeeeeee!
+🤝 I’m looking for help with Improvising in AI development.
+👨‍💻 All of my projects are available at 
+💬 Ask me about AI, Java, Software Testing, Aws, Cloud Computing, Researches, Tech-Innovations.
+📫 How to reach me ankitupadhyay1503@gmail.com
+📄 Resume is here Click me(https://drive.google.com/file/d/18s8ds1OP1uNWyJqAbecoEMjSu1d0OSiO/view?usp=drivesdk)!
+⚡ My quote to you is, If your path has a lot of enemies, you are heading towards the next level!.
+😄 Pronouns: Jordan20au.
+⚡ Fun fact: Working on Myself.
