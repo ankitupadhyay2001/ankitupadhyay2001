@@ -8,6 +8,6 @@ I am a multipotentialite. I have different passions that mix together to create 
 [![](https://visitcount.itsvg.in/api?id=ankitupadhyay2001&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="right">
-  <p align="right" style="position: relative; top: 350px;">
+  <p align="right" style="position: relative; top: 35000px;">
   <img src="https://camo.githubusercontent.com/48dbbfd0a418422b4d76e9f20de8a3b55e0e81f4ada6b05d3b8ed5bea2df62f6/68747470733a2f2f7061312e6e61727669692e636f6d2f363538302f383039386336653932303733373638383965656230353332643966356130373233633464373366355f68712e676966" alt="Sticker" width="250"/>
 </p>
