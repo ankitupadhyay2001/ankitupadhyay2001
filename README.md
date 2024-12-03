@@ -6,7 +6,7 @@ I am a multipotentialite. I have different passions that mix together to create 
 👨‍💻 All of my projects are available at 
 💬 Ask me about AI, Java, Software Testing, Aws, Cloud Computing, Researches, Tech-Innovations.
 📫 How to reach me ankitupadhyay1503@gmail.com
-📄 Resume is here (Click me)!
+📄 Resume is here (Click me%https://drive.google.com/file/d/18s8ds1OP1uNWyJqAbecoEMjSu1d0OSiO/view?usp=drivesdk)!
 ⚡ My quote to you is, If your path has a lot of enemies, you are heading towards the next level!.
 😄 Pronouns: Jordan20au.
 ⚡ Fun fact: Working on Myself.
